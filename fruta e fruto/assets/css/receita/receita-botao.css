@@ -1,0 +1,14 @@
+.receita-botao {
+    font-family: 'Jost', sans-serif;
+    background: #c00303;
+    border: none;
+    border-radius: 10px;
+    color: #fdfdfd;
+    padding: 1rem;
+}
+
+.receita-botao:hover {
+    cursor: pointer;
+    background: #db5800;
+    transition: 0.2s;
+}

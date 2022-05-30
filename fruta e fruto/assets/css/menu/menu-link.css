@@ -1,0 +1,17 @@
+.menu-link {
+    color: #222222;
+    margin-right: 3rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.menu-link.ativo {
+    color: #222222;
+    font-weight: bold;
+}
+
+.menu-link:hover {
+    color: rgb(255, 174, 52);
+    transition: 0.2s;
+}
